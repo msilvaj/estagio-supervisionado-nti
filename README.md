@@ -1,2 +1,2 @@
 # estagio-supervisionado-nti
-Projeto Dashboard usando outras tecnologias
+Projeto Dashboard usando Chart.js, jQuery, php, html5 e mysql
