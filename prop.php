@@ -5,7 +5,7 @@ header('Content-Type: application/json');
 //database
 define('DB_HOST', '127.0.0.1');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '15232012');
+define('DB_PASSWORD', 'PASSWD');
 define('DB_NAME', 'dashboard');
 
 //get connection
