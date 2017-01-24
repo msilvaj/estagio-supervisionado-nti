@@ -16,7 +16,7 @@ if(!$mysqli){
 }
 
 //query to get data from the table
-$query = sprintf("SELECT id, professor_id FROM projeto where professor_id is not null limit 50");
+$query = sprintf("SELECT id, centro, descricaocargo, descricaohabilitacao  FROM professor limit 10");
 
 //execute query
 $result = $mysqli->query($query);
