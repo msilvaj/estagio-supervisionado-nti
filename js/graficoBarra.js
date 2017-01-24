@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$.ajax({
-		url: "http://localhost/prop.php",
+		url: "http://localhost/projetoprof.php",
 		method: "GET",
 		success: function(data) {
 			console.log(data);
